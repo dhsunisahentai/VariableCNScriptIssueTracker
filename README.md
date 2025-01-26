@@ -2,7 +2,7 @@
 
 ## 请不要在这里提起关于 spoof.json 引起的无法进入服务器的问题
 
-本仓库用于管理 **Variable Client** 的issue，反馈，建议。
+本仓库用于管理 **Variable Client 中国脚本** 的issue，反馈，建议。
 
 反馈请遵守反馈规则，否则会被关闭
 
